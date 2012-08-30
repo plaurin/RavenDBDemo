@@ -1,0 +1,18 @@
+﻿{
+    "Id": 1001,
+    "Date": "2012-09-12",
+    "Customer": "Guy Barette",
+    "GrandTotal": "0.00"
+    "ShippingAddress":
+    {
+        "Address": "2000 McGill College, 4e étage, Montréal, QC",
+        "PostalCode": "H3A 3H3",
+        "Country": "Canada"
+    },
+    "OrderLines":
+    [
+        { "Product": "NuGet", "Quantity": "1", "Total": "0.00" },
+        { "Product": "Web API", "Quantity": "1", "Total": "0.00" },
+        { "Product": "Git-tf", "Quantity": "1", "Total": "0.00" }
+    ],
+}
